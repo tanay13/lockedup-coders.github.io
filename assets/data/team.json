@@ -2,7 +2,7 @@
     {
         "name":"John Doe",
         "role":"admin/maintainer/contributor",
-        "profile_pic":"path/to/photos/johnDoe.jpg",
+        "profile_pic":"../assets/images/johnDoe.jpg",
         "email":"johndoe@example.com",
         "github_link": "https://github.com/johndoe",
         "linkedIn_link": "https://www.linkedin.com/in/johndoe/"
@@ -10,7 +10,7 @@
     {
         "name":"Vivek Shah",
         "role":"contributor",
-        "profile_pic":"../assets/team/vivek.jpg",
+        "profile_pic":"../assets/images/vivek.jpg",
         "email":"vivekshah9969@gmail.com",
         "github_link": "https://github.com/vivekshah1801",
         "linkedIn_link": "https://www.linkedin.com/in/vivekshah1801/"
@@ -18,9 +18,17 @@
     {
         "name":"vipul krishna",
         "role":"contributor",
-        "profile_pic":"../assets/team/vipul.jpg",
+        "profile_pic":"../assets/images/vipul.jpg",
         "email":"vipul07.mathuria@gmail.com",
         "github_link":"https://github.com/vipul1999",
         "linkedIn_link":"https://www.linkedin.com/in/vipulkrishna/"
+    },
+    {
+        "name":"Tanay Raj",
+        "role":"contributor",
+        "profile_pic":"../assets/images/tanay.jpg",
+        "email":"tanay.raj76@gmail.com",
+        "github_link":"https://github.com/tanay13",
+        "linkedIn_link":"https://www.linkedin.com/in/tanay-raj-4761121a1/"
     }
 ]
